@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Taller de JavaScript: desarrollo de aplicaciones web modernas",
+    "packageVersion": "0.0.0",
+    "useSass": false
+  }
+}

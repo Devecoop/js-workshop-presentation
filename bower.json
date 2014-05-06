@@ -1,0 +1,7 @@
+{
+  "name": "taller-de-javascript-desarrollo-de-aplicaciones-web-modernas",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1"
+  }
+}
